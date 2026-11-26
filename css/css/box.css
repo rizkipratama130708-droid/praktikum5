@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.box1 {
+    width: 300px;
+    height: 90vh;
+    background-color: #F9CA24;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.box2 {
+    width: 300px;
+    height: 90vh;
+    background-color: #EB4D4B;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.box3 {
+    width: 300px;
+    height: 90vh;
+    background-color: #27AE60;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.box4 {
+    width: 300px;
+    height: 90vh;
+    background-color: #2F80ED;
+    margin: 10px;
+    border: 1px solid;
+}

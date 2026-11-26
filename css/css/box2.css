@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.box-coklat {
+    background-color: #673c04;
+    height: 95px;
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.box-red {
+    background-color: #f80a46;
+    width: 20%;
+    height: 100px;
+}
+
+.box-biru {
+    background-color: #510bea;
+    width: 80%;
+    height: 100px;
+}
+
+.box-purpel {
+    background-color: #f3091c;
+    width: 80%;
+    height: 100px;
+}

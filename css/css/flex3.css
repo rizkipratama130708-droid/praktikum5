@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eaf2ff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.galeri-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
+    justify-content: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.galeri-container img {
+    height: 120px;
+    object-fit: cover;
+    border: 2px solid #2563eb;
+    border-radius: 8px;
+}
+
+.panjang {
+    width: 250px;
+}
+
+.pendek {
+    width: 153px;
+}

@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container { 
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: #dbeafe;
+    padding: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+}
